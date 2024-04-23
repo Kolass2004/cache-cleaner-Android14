@@ -1,0 +1,6 @@
+id=cleaner
+name=all package cache cleaner 
+version=v1
+versionCode=1
+author=Kolass rexon j
+description=Cleans package cache then removes itself
